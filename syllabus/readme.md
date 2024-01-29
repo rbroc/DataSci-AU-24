@@ -50,7 +50,7 @@ The assignment and the product must be submitted for assessment in the Digital E
 Each course element (1-12) is a four hour session, consisting of a 2hr lecture and 2hrs coding session.
 
 | Week  | Session | Teacher |  Lecture | Classroom | Reading |
-| :---: | :-----: | ----------| -------| ---|
+| :---: | :-----: | ------- | ----------| -------| ---|
 |  6   |    1    | Roberta | Introduction: Modeling cultures: prediction _versus_ explanation?  | Data Exploration  | see _Suggested Readings_ |
 |  7   |    2    | Roberta | Classification & Regressions: Algorithms and Evaluation | Classification & Regression with sklearn & statsmodels | _Chapters 3,4,7,9  |
 |  8   |    3    | Roberta | Overfitting & Regularization | Detecting and countering overfitting | _Chapter 6_ |
