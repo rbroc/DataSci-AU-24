@@ -48,11 +48,12 @@ The assignment and the product must be submitted for assessment in the Digital E
 ## Schedule ##
 
 Each course element (1-12) is a four hour session, consisting of a 2hr lecture and 2hrs coding session.
+Readings of the type _Chapter X_ are drawn from the textbook we will follow throughout the course (see _Textbook_ Section)
 
 | Week  | Session | Teacher |  Lecture | Classroom | Reading |
 | :---: | :-----: | ------- | ----------| -------| ---|
 |  6   |    1    | Roberta | Introduction: Modeling cultures: prediction _versus_ explanation?  | Data Exploration  | see _Suggested Readings_ |
-|  7   |    2    | Roberta | Classification & Regressions: Algorithms and Evaluation | Classification & Regression with sklearn & statsmodels | _Chapters 3,4,7,9  |
+|  7   |    2    | Roberta | Classification & Regressions: Algorithms and Evaluation | Classification & Regression with sklearn & statsmodels | _Chapters 3,4,7,9_  |
 |  8   |    3    | Roberta | Overfitting & Regularization | Detecting and countering overfitting | _Chapter 6_ |
 |  9   |    4    | Roberta | Tree-based methods  | Random Forests & XGBoost  | _Chapter 8_    |
 |  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  | _Chapter 12_  |
@@ -68,9 +69,7 @@ Each course element (1-12) is a four hour session, consisting of a 2hr lecture a
 Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 
 
-## Reading ##
-
-## Suggested Readings
+## Readings ##
 The following readings explain notions that are central to the overall philosophy of the course. We will especially focus on these in the first few lectures, so make sure to read them. I've sorted them by direct relevance to the course:
 * Yarkoni T, & Westfall J (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, available [here](https://doi.org/10.1177/1745691617693393)
 * Rocca R, Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. Advances in Methods and Practices in Psychological Science, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
@@ -83,9 +82,9 @@ Note that, in this folder, you will also find a list of [additional resources re
 Throughout the course, we will follow this textbook:
 * James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in python. Springer Nature.
 The textbook is freely available, and can be downloaded at this link: https://www.statlearning.com/
-* Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
-A math-heavy version of this is the related textbook:
 
+There is also a math-heavy version of this textbook:
+* Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
 If you are in for the math, you can dive deeper into the methods we will discuss in class through this textbook, which is available at: https://hastie.su.domains/Papers/ESLII.pdf
 
 
