@@ -72,7 +72,7 @@ Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 ## Readings ##
 The following readings explain notions that are central to the overall philosophy of the course. We will especially focus on these in the first few lectures, so make sure to read them. I've sorted them by direct relevance to the course:
 * Yarkoni T, & Westfall J (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, available [here](https://doi.org/10.1177/1745691617693393)
-* Rocca R, Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. Advances in Methods and Practices in Psychological Science, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
+* Rocca R, & Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. Advances in Methods and Practices in Psychological Science, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
 * Shmueli G (2010), To Explain or to Predict?, Statistical Science, available [here](https://projecteuclid.org/journals/statistical-science/volume-25/issue-3/To-Explain-or-to-Predict/10.1214/10-STS330.full)
 * Breiman L (2001), Statistical Modeling: The Two Cultures, Statistical Science, available [here](https://doi.org/10.1214/ss/1009213726)
 
