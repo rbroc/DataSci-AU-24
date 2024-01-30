@@ -95,7 +95,7 @@ The order I have sorted them in is a good proxy for relevance.
 * Rocca R, & Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. _Advances in Methods and Practices in Psychological Science_, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
 * Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. _Queue_. Available [here](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340).
 * Breiman L (2001), Statistical Modeling: The Two Cultures, _Statistical Science_, available [here](https://doi.org/10.1214/ss/1009213726)
-
+* Hasson, U., Nastase, S. A., & Goldstein, A. (2020). Direct fit to nature: an evolutionary perspective on biological and artificial neural networks. _Neuron_. Available [here](https://www.cell.com/neuron/pdf/S0896-6273(19)31044-X.pdf)
 
 ## Padlet on Brightspace ##
 
