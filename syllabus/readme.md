@@ -59,7 +59,7 @@ Below is the plan for the course. In the _Reading_ column, you will find a numbe
 |  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  | _Chapter 12_  |
 |  11   |    6    | Mads | Data Science in Industry | TBA  |  TBA   |
 |  12   |    7    | Mads | Causal Data Science I  | TBA  |  TBA   |
-| Easter Break   |
+| Easter Break ||||||
 |  14   |    8    | Mads | Causal Data Science II  | TBA  |  TBA |
 |  15   |    9    | Mads | Modeling Time Series   | TBA  | TBA |
 |  16   |   10    | Roberta | Neural Networks | Image and Audio Classification with CNNs | _Chapter 10_ |
