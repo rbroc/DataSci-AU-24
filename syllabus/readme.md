@@ -86,7 +86,7 @@ This is available at: https://hastie.su.domains/Papers/ESLII.pdf
 
 ## Suggested Readings ##
 
-These readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy (we will see that it not really a dichotomy) in the context of cognitive sciences. 
+These readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy (as we will see, this is not really a dichotomy) in the context of cognitive sciences. 
 We will explicitly focus on these in the first lecture. Reading them will make it much easier to contextualize methods and topics discussed throughout the course, and I thus suggest you pick a few of them and read them.
 The order I have sorted them in is a good proxy for relevance.
 
