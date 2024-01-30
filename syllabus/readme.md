@@ -84,16 +84,16 @@ If you are in for the math, you can dive deeper into the methods we will discuss
 
 ## Suggested Readings ##
 
-The following readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy in the context of cognitive sciences. 
+The following readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy (we will see that it not really a dichotomy) in the context of cognitive sciences. 
 We will explicitly focus on these in the first lecture. Reading them will make it much easier to contextualize methods and topics discussed throughout the course, and I thus suggest you pick a few of them and read them.
+The order I have sorted them in is a good proxy for relevance.
 
-* Breiman L (2001), Statistical Modeling: The Two Cultures, _Statistical Science_, available [here](https://doi.org/10.1214/ss/1009213726)
-* Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. _Queue_. Available [here](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340).
-* Rocca R, & Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. _Advances in Methods and Practices in Psychological Science_, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
-* Shmueli G (2010), To Explain or to Predict?, _Statistical Science_, available [here](https://projecteuclid.org/journals/statistical-science/volume-25/issue-3/To-Explain-or-to-Predict/10.1214/10-STS330.full)
 * Yarkoni T, & Westfall J (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. _Perspectives on Psychological Science_, available [here](https://doi.org/10.1177/1745691617693393)
+* Shmueli G (2010), To Explain or to Predict?, _Statistical Science_, available [here](https://projecteuclid.org/journals/statistical-science/volume-25/issue-3/To-Explain-or-to-Predict/10.1214/10-STS330.full)
+* Rocca R, & Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. _Advances in Methods and Practices in Psychological Science_, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
+* Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. _Queue_. Available [here](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340).
+* Breiman L (2001), Statistical Modeling: The Two Cultures, _Statistical Science_, available [here](https://doi.org/10.1214/ss/1009213726)
 
-Note that, in this folder, you will also find a list of [additional resources relevant to lectures](`extra_resources.md`).
 
 ## Padlet on Brightspace ##
 
