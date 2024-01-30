@@ -48,17 +48,18 @@ The assignment and the product must be submitted for assessment in the Digital E
 ## Schedule ##
 
 Each course element (1-12) is a four hour session, consisting of a 2hr lecture and 2hrs coding session.
-Readings of the type _Chapter X_ are drawn from the textbook we will follow throughout the course (see _Textbook_ Section)
+Below is the plan for the course. In the _Reading_ column, you will find a number of suggested readings, mostly drawn he textbook we will follow throughout the course (see _Textbook_ Section below)
 
 | Week  | Session | Teacher |  Lecture | Classroom | Reading |
 | :---: | :-----: | ------- | ----------| -------| ---|
-|  6   |    1    | Roberta | Introduction: Modeling cultures: prediction _versus_ explanation?  | Data Exploration  | see _Suggested Readings_ |
-|  7   |    2    | Roberta | Classification & Regressions: Algorithms and Evaluation | Classification & Regression with sklearn & statsmodels | _Chapters 3,4,7,9_  |
+|  6   |    1    | Roberta | Course Overview & Modeling Cultures  | Data Exploration  | _Chapter 1_, _Suggested Readings_ |
+|  7   |    2    | Roberta | Classification & Regression | Classification & Regression with sklearn & statsmodels | _Chapters 2,3,4,7,9_  |
 |  8   |    3    | Roberta | Overfitting & Regularization | Detecting and countering overfitting | _Chapter 6_ |
 |  9   |    4    | Roberta | Tree-based methods  | Random Forests & XGBoost  | _Chapter 8_    |
 |  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  | _Chapter 12_  |
 |  11   |    6    | Mads | Data Science in Industry | TBA  |  TBA   |
 |  12   |    7    | Mads | Causal Data Science I  | TBA  |  TBA   |
+| Easter Break   |
 |  14   |    8    | Mads | Causal Data Science II  | TBA  |  TBA |
 |  15   |    9    | Mads | Modeling Time Series   | TBA  | TBA |
 |  16   |   10    | Roberta | Neural Networks | Image and Audio Classification with CNNs | _Chapter 10_ |
@@ -69,24 +70,31 @@ Readings of the type _Chapter X_ are drawn from the textbook we will follow thro
 Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 
 
-## Readings ##
-The following readings explain notions that are central to the overall philosophy of the course. We will especially focus on these in the first few lectures, so make sure to read them. I've sorted them by direct relevance to the course:
-* Yarkoni T, & Westfall J (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspectives on Psychological Science, available [here](https://doi.org/10.1177/1745691617693393)
-* Rocca R, & Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. Advances in Methods and Practices in Psychological Science, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
-* Shmueli G (2010), To Explain or to Predict?, Statistical Science, available [here](https://projecteuclid.org/journals/statistical-science/volume-25/issue-3/To-Explain-or-to-Predict/10.1214/10-STS330.full)
-* Breiman L (2001), Statistical Modeling: The Two Cultures, Statistical Science, available [here](https://doi.org/10.1214/ss/1009213726)
-
-Note that, in this folder, you will also find a list of [additional resources relevant for each lecture](`extra_resources.md`).
-
 ## Textbook ## 
+
 Throughout the course, we will follow this textbook:
 * James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in python. Springer Nature.
 The textbook is freely available, and can be downloaded at this link: https://www.statlearning.com/
+The textbook comes with a number of exercises at the end of each chapter. These are implemented as Jupyter notebooks and can be found at: https://github.com/intro-stat-learning/ISLP_labs.
+You can use these to further practice things discussed during lectures, or to complement the practical exercises I will design for our classes.
 
-There is also a math-heavy version of this textbook:
+In you are in for the math, you can complement these readings with a parallel textbook which covers the same topics, but with more advanced mathematical content:
 * Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
 If you are in for the math, you can dive deeper into the methods we will discuss in class through this textbook, which is available at: https://hastie.su.domains/Papers/ESLII.pdf
 
+
+## Suggested Readings ##
+
+The following readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy in the context of cognitive sciences. 
+We will explicitly focus on these in the first lecture. Reading them will make it much easier to contextualize methods and topics discussed throughout the course, and I thus suggest you pick a few of them and read them.
+
+* Breiman L (2001), Statistical Modeling: The Two Cultures, _Statistical Science_, available [here](https://doi.org/10.1214/ss/1009213726)
+* Lipton, Z. C. (2018). The mythos of model interpretability: In machine learning, the concept of interpretability is both important and slippery. _Queue_. Available [here](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340).
+* Rocca R, & Yarkoni T (2022), Putting Psychology to the Test: Rethinking Model Evaluation Through Benchmarking and Prediction. _Advances in Methods and Practices in Psychological Science_, available [here](https://journals.sagepub.com/doi/full/10.1177/25152459211026864)
+* Shmueli G (2010), To Explain or to Predict?, _Statistical Science_, available [here](https://projecteuclid.org/journals/statistical-science/volume-25/issue-3/To-Explain-or-to-Predict/10.1214/10-STS330.full)
+* Yarkoni T, & Westfall J (2017). Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. _Perspectives on Psychological Science_, available [here](https://doi.org/10.1177/1745691617693393)
+
+Note that, in this folder, you will also find a list of [additional resources relevant to lectures](`extra_resources.md`).
 
 ## Padlet on Brightspace ##
 

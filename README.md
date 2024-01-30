@@ -25,7 +25,9 @@ This repository has been initialised with the following directory structure:
 ```data```| Will contain data we will use for some of the exercises.
 
 ## Classroom instruction
-The general structure for classroom instruction is the following: I will present you with a few exercises, which you can work on solving in class and at home. The week after, I will provide my solution to the exercise, and briefly guide you through it. We can discuss your own solutions in class too, but I will not be able to provide individualized feedback (and assignments will not be graded).
+
+During classroom instructions, I will present you with some exercises to work on in groups, related to the content of the lecture. This semester, we will emphasize peer programming and interactive coding on UCloud. 
+At the end of each class or at the beginning of the next class, we will discuss your solutions to the exercises. Note that unfortunately, due to time limitations, I will not be able to grade individual assignments.
 
 
 ## Class times
@@ -40,7 +42,7 @@ Make sure to read the studieording first if you have any questions relating to t
 
 ## Contact details
 
-Your lecturers for this course will be [Roberta](https://pure.au.dk/portal/en/persons/roberta-rocca(079b23a2-46f6-4a00-9cd6-9a1339101208)/persons/roberta-rocca(079b23a2-46f6-4a00-9cd6-9a1339101208).html) and Mads, who is Senior Data Scientist at Norlys, and will take over for 4 weeks to introduce you to data science in industry settings, and to causal and time-series modeling.
+Your lecturers for this course will be [Roberta](https://pure.au.dk/portal/en/persons/roberta-rocca(079b23a2-46f6-4a00-9cd6-9a1339101208)/persons/roberta-rocca(079b23a2-46f6-4a00-9cd6-9a1339101208).html) and Mads Jensen, who is Senior Data Scientist at Norlys, and will take over for 4 weeks to talk about data science in industry settings, causal modeling and time-series modeling.
 
 All communication to you will be sent via Brightspace.
 
