@@ -73,13 +73,15 @@ Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 
 Throughout the course, we will follow this textbook:
 * James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in Python. Springer Nature.
+
 The textbook is freely available, and can be downloaded at this link: https://www.statlearning.com/
 The textbook comes with a number of very nicely structured exercises at the end of each chapter. These are implemented as Jupyter notebooks and can be found at: https://github.com/intro-stat-learning/ISLP_labs.
 You can use these to further practice things discussed during lectures, or to complement the practical exercises you will be presented with during our classes.
 
 In you are in for the math, you can complement these readings with a parallel textbook which covers the same topics, but with more advanced mathematical content:
 * Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
-If you are in for the math, you can dive deeper into the methods we will discuss in class through this textbook, which is available at: https://hastie.su.domains/Papers/ESLII.pdf
+
+This is available at: https://hastie.su.domains/Papers/ESLII.pdf
 
 
 ## Suggested Readings ##
