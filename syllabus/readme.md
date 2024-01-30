@@ -56,12 +56,12 @@ Below is the plan for the course. In the _Reading_ column, you will find a numbe
 |  7   |    2    | Roberta | Classification & Regression | Classification & Regression (`sklearn`, `statsmodels`) | _Chapters 2,3,4,7,9_  |
 |  8   |    3    | Roberta | Overfitting & Regularization | Overfitting & Regularized Regression | _Chapter 6_ |
 |  9   |    4    | Roberta | Tree-based methods  | Random Forests & XGBoost (`sklearn`, `xgboost`) | _Chapter 8_    |
-|  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  (`sklearn,`, `umap`) | _Chapter 12_  |
+|  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  (`sklearn`, `umap`) | _Chapter 12_  |
 |  11   |    6    | Mads | Data Science in Industry | TBA  |  TBA   |
 |  12   |    7    | Mads | Causal Data Science I  | TBA  |  TBA   |
 |  14   |    8    | Mads | Causal Data Science II  | TBA  |  TBA |
 |  15   |    9    | Mads | Modeling Time Series   | TBA  | TBA |
-|  16   |   10    | Roberta | Neural Networks | Image and Audio Classification with CNNs (`torch`) | _Chapter 10_ |
+|  16   |   10    | Roberta | Neural Networks | Image/Audio Classification with CNNs (`torch`, `timm`, `transformers`) | _Chapter 10_ |
 |  17   |   11    | Roberta | Project Presentations    | Project Presentations      | N/A |
 |  18   |   12    | Roberta | Project Hackathon  | Project Hackathon | N/A  |
 |  19   |   13    | Roberta | Project Hackathonn  | Project Hackathon | N/A  |
@@ -72,10 +72,10 @@ Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 ## Textbook ## 
 
 Throughout the course, we will follow this textbook:
-* James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in python. Springer Nature.
+* James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in Python. Springer Nature.
 The textbook is freely available, and can be downloaded at this link: https://www.statlearning.com/
-The textbook comes with a number of exercises at the end of each chapter. These are implemented as Jupyter notebooks and can be found at: https://github.com/intro-stat-learning/ISLP_labs.
-You can use these to further practice things discussed during lectures, or to complement the practical exercises I will design for our classes.
+The textbook comes with a number of very nicely structured exercises at the end of each chapter. These are implemented as Jupyter notebooks and can be found at: https://github.com/intro-stat-learning/ISLP_labs.
+You can use these to further practice things discussed during lectures, or to complement the practical exercises you will be presented with during our classes.
 
 In you are in for the math, you can complement these readings with a parallel textbook which covers the same topics, but with more advanced mathematical content:
 * Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.
@@ -84,7 +84,7 @@ If you are in for the math, you can dive deeper into the methods we will discuss
 
 ## Suggested Readings ##
 
-The following readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy (we will see that it not really a dichotomy) in the context of cognitive sciences. 
+These readings present arguments that are foundational to the philosophy of the course, and they help contextualize the prediction _versus_ explanation dichotomy (we will see that it not really a dichotomy) in the context of cognitive sciences. 
 We will explicitly focus on these in the first lecture. Reading them will make it much easier to contextualize methods and topics discussed throughout the course, and I thus suggest you pick a few of them and read them.
 The order I have sorted them in is a good proxy for relevance.
 
