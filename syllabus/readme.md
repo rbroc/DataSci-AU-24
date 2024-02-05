@@ -52,8 +52,8 @@ Below is the plan for the course. In the _Reading_ column, you will find a numbe
 
 | Week  | Session | Teacher |  Lecture | Classroom | Reading |
 | :---: | :-----: | ------- | ----------| -------| ---|
-|  6   |    1    | Roberta | Course Overview & Modeling Cultures  | Data Exploration (`pandas`, `matplotlib/seaborn`, `numpy`)  | _Chapter 1_, _Suggested Readings_ |
-|  7   |    2    | Roberta | Classification & Regression | Classification & Regression (`sklearn`, `statsmodels`) | _Chapters 2,3,4,7,9_  |
+|  6   |    1    | Roberta | Course Overview & Modeling Cultures  | Data Exploration (`pandas`, `matplotlib/seaborn`)  | _Chapter 1_, _Suggested Readings_ |
+|  7   |    2    | Roberta | Classification & Regression | Classification & Regression (`sklearn`, `numpy`, `statsmodels`) | _Chapters 2,3,4,7,9_  |
 |  8   |    3    | Roberta | Overfitting & Regularization | Overfitting & Regularized Regression | _Chapter 6_ |
 |  9   |    4    | Roberta | Tree-based methods  | Random Forests & XGBoost (`sklearn`, `xgboost`) | _Chapter 8_    |
 |  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  (`sklearn`, `umap`) | _Chapter 12_  |
