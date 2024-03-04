@@ -52,19 +52,21 @@ Below is the plan for the course. In the _Reading_ column, you will find a numbe
 
 | Week  | Session | Teacher |  Lecture | Classroom | Reading |
 | :---: | :-----: | ------- | ----------| -------| ---|
-|  6   |    1    | Roberta | Course Overview & Modeling Cultures  | Data Exploration (`pandas`, `matplotlib/seaborn`)  | _Chapter 1_, _Suggested Readings_ |
-|  7   |    2    | Roberta | Classification & Regression | Classification & Regression (`sklearn`, `numpy`, `statsmodels`) | _Chapters 2,3,4,7,9_  |
-|  8   |    3    | Roberta | Overfitting & Regularization | Overfitting & Regularized Regression | _Chapter 6_ |
-|  9   |    4    | Roberta | Tree-based methods  | Random Forests & XGBoost (`sklearn`, `xgboost`) | _Chapter 8_    |
-|  10   |    5    | Roberta | Unsupervised Learning  |  Dimensionality Reduction and Clustering  (`sklearn`, `umap`) | _Chapter 12_  |
+|  6   |    1    | Roberta | Course Overview & Modeling Cultures  | Formulating a Predictive Modeling Problem (`pandas`, `matplotlib/seaborn`)  | _Chapter 1_, _Suggested Readings_ |
+|  7   |    2    | Roberta | Regression Algorithms & Evaluation | Linear Regression & KNN Models (`sklearn`, `numpy`) | _Chapters 2,3,7_  |
+|  8   |    3    | Roberta | Classification, Overfitting & Regularization | Lasso & Ridge Regression in `sklearn` | _Chapters 4,6,9_ |
+|  9   |    4    | Roberta | Bias-Variance Trade-off & Decision Trees  | Bias & Variance Simulation | _Chapter 8.1_    |
+|  10   |    5    | Roberta | Bagging & Boosting  |  Random Forests & XGBoost (`sklearn`, `xgboost`) | _Chapter 12, 8.2-3_  |
 |  11   |    6    | Mads | Data Science in Industry | TBA  |  TBA   |
 |  12   |    7    | Mads | Causal Data Science I  | TBA  |  TBA   |
 |  14   |    8    | Mads | Causal Data Science II  | TBA  |  TBA |
 |  15   |    9    | Mads | Modeling Time Series   | TBA  | TBA |
 |  16   |   10    | Roberta | Neural Networks | Image/Audio Classification with CNNs (`torch`, `timm`, `transformers`) | _Chapter 10_ |
 |  17   |   11    | Roberta | Project Presentations    | Project Presentations      | N/A |
-|  18   |   12    | Roberta | Project Hackathon  | Project Hackathon | N/A  |
+|  18   |   12    | Roberta | Project Hackathon*  | Project Hackathon | N/A  |
 |  19   |   13    | Roberta | Project Hackathonn  | Project Hackathon | N/A  |
+
+*Might reintroduce unsupervised learning (dimensionality reduction and clustering)
 
 Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 
