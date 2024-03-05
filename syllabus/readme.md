@@ -56,7 +56,7 @@ Below is the plan for the course. In the _Reading_ column, you will find a numbe
 |  7   |    2    | Roberta | Regression Algorithms & Evaluation | Linear Regression & KNN Models (`sklearn`, `numpy`) | _Chapters 2,3,7_  |
 |  8   |    3    | Roberta | Classification, Overfitting & Regularization | Lasso & Ridge Regression in `sklearn` | _Chapters 4,6,9_ |
 |  9   |    4    | Roberta | Bias-Variance Trade-off & Decision Trees  | Bias & Variance Simulation | _Chapter 8.1_    |
-|  10   |    5    | Roberta | Bagging & Boosting  |  Random Forests & XGBoost (`sklearn`, `xgboost`) | _Chapter 12, 8.2-3_  |
+|  10   |    5    | Roberta | Bagging & Boosting  |  Random Forests & XGBoost (`sklearn`, `xgboost`) | _Chapter 8.2-3_  |
 |  11   |    6    | Mads | Data Science in Industry | TBA  |  TBA   |
 |  12   |    7    | Mads | Causal Data Science I  | TBA  |  TBA   |
 |  14   |    8    | Mads | Causal Data Science II  | TBA  |  TBA |
