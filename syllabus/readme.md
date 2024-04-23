@@ -62,11 +62,9 @@ Below is the plan for the course. In the _Reading_ column, you will find a numbe
 |  14   |    8    | Mads | Causal Data Science II  | Causal discovery |  Glymour, C., Zhang, K., & Spirtes, P. (2019). Review of Causal Discovery Methods Based on Graphical Models. Frontiers in Genetics, 10, 524. https://doi.org/10.3389/fgene.2019.00524|
 |  15   |    9    | Mads | Modeling Time Series   | Time series modelling | [Forecasting: Principles and Practice](https://otexts.com/fpp3/) chapters: 3, 7, 9 |
 |  16   |   10    | Roberta | Neural Networks | Image/Audio Classification with CNNs (`torch`, `timm`, `transformers`) | _Chapter 10_ |
-|  17   |   11    | Roberta | Project Presentations    | Project Presentations      | N/A |
-|  18   |   12    | Roberta | Project Hackathon*  | Project Hackathon | N/A  |
-|  19   |   13    | Roberta | Project Hackathonn  | Project Hackathon | N/A  |
-
-*Might reintroduce unsupervised learning (dimensionality reduction and clustering)
+|  17   |   11    | Roberta | Project Hackathon    | Project  Hackathon   | N/A |
+|  18   |   12    | Roberta | Project Presentations  | Project Presentations | N/A  |
+|  19   |   13    | Roberta | Project Hackathon  | Project Hackathon | N/A  |
 
 Lectures take place Tuesday 14:00 - 16:00 and classes Wednesday 08:00 - 10:00.
 
